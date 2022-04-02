@@ -34,5 +34,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "axios": "^0.26.1",
+    "http-proxy-middleware": "^2.0.4",
+    "nanoid": "^3.3.2",
+    "prop-types": "^15.8.1"
   }
 }
